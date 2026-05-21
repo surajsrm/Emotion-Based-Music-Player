@@ -53,23 +53,6 @@ The project combines:
 
 ---
 
-## 📂 Project Structure
-
-```bash
-src/
-│
-├── components/
-│   └── Login.jsx
-│
-├── features/
-│   └── emotion-player/
-│       ├── EmotionDetector.jsx
-│       ├── EmotionPlayer.jsx
-│       └── MusicPlayer.jsx
-│
-├── App.jsx
-└── main.jsx
-
 ⚙️ How It Works
 User opens the application
 Webcam captures live facial expressions
@@ -118,3 +101,21 @@ Shivanand Singh
 Shreyan Shrivastava
 Shashank Tiwari
 Surya Pratap Singh 
+
+
+## 📂 Project Structure
+
+```bash
+src/
+│
+├── components/
+│   └── Login.jsx
+│
+├── features/
+│   └── emotion-player/
+│       ├── EmotionDetector.jsx
+│       ├── EmotionPlayer.jsx
+│       └── MusicPlayer.jsx
+│
+├── App.jsx
+└── main.jsx
