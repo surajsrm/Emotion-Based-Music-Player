@@ -69,3 +69,52 @@ src/
 │
 ├── App.jsx
 └── main.jsx
+
+⚙️ How It Works
+User opens the application
+Webcam captures live facial expressions
+Face API analyzes the expression
+Emotion is detected
+Matching music is selected
+YouTube player streams the song.
+
+▶️ How To Run The Project
+1️⃣ Clone the repository
+git clone https://github.com/your-username/emotion-based-music-player.git
+
+2️⃣ Open project folder
+cd emotion-based-music-player
+
+3️⃣ Install dependencies
+npm install
+
+4️⃣ Start development server
+npm run dev
+
+5️⃣ Open in browser
+http://localhost:5173
+
+📸 Main Modules
+🔹 Emotion Detector
+Detects facial expressions using webcam and Face API.
+🔹 Music Player
+Plays emotion-based songs using YouTube integration.
+🔹 Login System
+Simple login and signup UI for user authentication.
+🔹 Real-Time Scan
+User can manually scan emotion using the Scan Emotion button.
+
+📈 Future Improvements
+Spotify API integration
+User playlist system
+Better emotion accuracy
+Voice emotion detection
+AI-based song recommendation engine
+Dark/Light theme toggle
+
+👨‍💻 Developed By
+Suraj Sharma
+Shivanand Singh
+Shreyan Shrivastava
+Shashank Tiwari
+Surya Pratap Singh 
